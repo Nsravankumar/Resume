@@ -1,0 +1,64 @@
+
+a{
+
+color:#3385ff; 
+
+
+}
+.d {
+
+  border-radius: 15px 50px;
+  background: yellow;
+  padding: 19px;
+  width: 100px;
+  height: 10px;
+  border-style: outset;
+}
+.r{
+
+border-style: outset;
+
+}
+.e{
+
+font-size: 25px;
+text-align: justify;
+  text-justify: inter-word;
+width: 1000px;
+  word-wrap: break-word;
+
+
+
+}
+.k{
+
+font-size: 25px;
+text-align: justify;
+  text-justify: inter-word;
+width: 1000px;
+  word-wrap: break-word;
+  border: 5px solid;
+border-collapse: separate;
+width :100%;
+border-spacing: 10px;
+
+
+
+
+}
+.l{
+
+	font-size: 15px;
+}
+.button {
+  background-color: yellow;
+  border: none;
+  color: teal;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  
+}
